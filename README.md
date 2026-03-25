@@ -7,21 +7,18 @@
 ## 🚀 About / Hakkımda
 
 **TR:**  
-Tıp ana alanım. Yazılım tarafında özellikle **backend**, **frontend** ve **AI** ile ilgileniyorum.  
-Hedefim, sağlıkta gerçek problemlere uygulanabilir, sade ve etkili dijital çözümler üretmek.
+Esas alanım tıp. Yazılıma noncoder / vibe-coding perspektifinden ilgi duyuyorum; tıp ve eğitim alanlarındaki problemler için sade ve işe yarar dijital araçlar ortaya çıkarmaya çalışıyorum.
 
 **EN:**  
-My core field is medicine. On the software side, I focus on **backend**, **frontend**, and **AI**.  
-I aim to build practical and simple digital solutions for real healthcare problems.
+My core field is medicine. I approach software from a noncoder / vibe-coding perspective, trying to put together simple and practical digital tools for problems in medicine and education.
 
 ---
 
 ## Focus Areas / Odak Alanlarım
 
 - 🩺 Healthcare & Clinical Workflows  
-- 🤖 Applied AI in Medicine  
-- ⚙️ Backend Systems & APIs  
-- 🖥️ Frontend Interfaces for Usability  
+- 🤖 AI-assisted Tools in Medicine  
+- 🛠️ Vibe-coding & No-code/Low-code Approaches 
 
 ---
 
