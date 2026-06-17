@@ -7,10 +7,10 @@
 ## 🚀 About / Hakkımda
 
 **TR:**  
-Esas alanım tıp. Yazılıma noncoder / vibe-coding perspektifinden ilgi duyuyorum; tıp ve eğitim alanlarındaki problemler için sade ve işe yarar dijital araçlar ortaya çıkarmaya çalışıyorum.
+Esas alanım tıp. Yazılımla bir bakıma hobi olarak ilgi duyuyorum; tıp ve eğitim alanlarındaki problemler için sade ve işe yarar dijital araçlar ortaya çıkarmaya çalışıyorum.
 
 **EN:**  
-My core field is medicine. I approach software from a noncoder / vibe-coding perspective, trying to put together simple and practical digital tools for problems in medicine and education.
+My core field is medicine. I approach software as like a hobby, trying to put together simple and practical digital tools for problems in medicine and education.
 
 ---
 
