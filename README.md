@@ -7,18 +7,17 @@
 ## 🚀 About / Hakkımda
 
 **TR:**  
-Esas alanım tıp. Yazılımla bir bakıma hobi olarak ilgi duyuyorum; tıp ve eğitim alanlarındaki problemler için sade ve işe yarar dijital araçlar ortaya çıkarmaya çalışıyorum.
+Tıp ve eğitim alanlarındaki problemler için sade ve işe yarar dijital araçlar ortaya çıkarmaya çalışıyorum.
 
 **EN:**  
-My core field is medicine. I approach software as like a hobby, trying to put together simple and practical digital tools for problems in medicine and education.
+Trying to put together simple and practical digital tools for problems in medicine and education.
 
 ---
 
 ## Focus Areas / Odak Alanlarım
 
-- 🩺 Healthcare & Clinical Workflows  
-- 🤖 AI-assisted Tools in Medicine  
-- 🛠️ Vibe-coding & No-code/Low-code Approaches 
+- 🩺 Healthcare & Clinical Workflows
+- 🤖 AI-assisted Tools in Medicine
 
 ---
 
